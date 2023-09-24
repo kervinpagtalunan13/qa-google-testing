@@ -1,0 +1,25 @@
+{
+  "objects" : {
+    "google-search" : {
+      "url" : "https://www.google.com/",
+      "objs" : {
+        "searchField" : {
+          "xpath" : "textarea[id='APjFqb']",
+          "objName" : "searchField"
+        },
+        "searchBtn" : {
+          "xpath" : "//div[@class='FPdoLc lJ9FBc']/center/input[@class='gNO89b']",
+          "objName" : "searchBtn"
+        },
+        "searchFieldResult" : {
+          "xpath" : "textarea[id='APjFqb']",
+          "objName" : "searchFieldResult"
+        }
+      }
+    },
+
+    "guru99" : {
+      "url" : "https://demo.guru99.com/test/newtours/index.php"
+    }
+  }
+}

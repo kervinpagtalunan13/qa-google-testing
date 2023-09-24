@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"SIGN-IN\"}\n  (Session info: chrome=116.0.5845.188)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6347D52A2+57122]\n\t(No symbol) [0x00007FF63474EA92]\n\t(No symbol) [0x00007FF63461E3AB]\n\t(No symbol) [0x00007FF634657D3E]\n\t(No symbol) [0x00007FF634657E2C]\n\t(No symbol) [0x00007FF634690B67]\n\t(No symbol) [0x00007FF63467701F]\n\t(No symbol) [0x00007FF63468EB82]\n\t(No symbol) [0x00007FF634676DB3]\n\t(No symbol) [0x00007FF63464D2B1]\n\t(No symbol) [0x00007FF63464E494]\n\tGetHandleVerifier [0x00007FF634A7EF82+2849794]\n\tGetHandleVerifier [0x00007FF634AD1D24+3189156]\n\tGetHandleVerifier [0x00007FF634ACACAF+3160367]\n\tGetHandleVerifier [0x00007FF634866D06+653702]\n\t(No symbol) [0x00007FF63475A208]\n\t(No symbol) [0x00007FF6347562C4]\n\t(No symbol) [0x00007FF6347563F6]\n\t(No symbol) [0x00007FF6347467A3]\n\tBaseThreadInitThunk [0x00007FFB397F257D+29]\n\tRtlUserThreadStart [0x00007FFB3A80AA68+40]\n"
+}

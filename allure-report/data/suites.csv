@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 23 10:26:50 CST 2023","Sat Sep 23 10:26:52 CST 2023","2126","","My Login application","","","","should open google",""
+"unknown","Sat Sep 23 10:26:53 CST 2023","Sat Sep 23 10:26:53 CST 2023","69","","My Login application","","","","should be able to search",""
+"passed","Sat Sep 23 10:26:52 CST 2023","Sat Sep 23 10:26:53 CST 2023","205","","My Login application","","","","search field and search button should be existing",""
